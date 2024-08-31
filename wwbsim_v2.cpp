@@ -4,7 +4,8 @@
 
 using namespace std;
 
-int highscore = 0, turnCount=0;
+int highscore = 0;
+long long turnCount = 0L;
 
 class Player {
 	public:
